@@ -1,0 +1,5 @@
+export const AdminupdateRoute = `${host}/admin/update`
+export const DoctorupdateRoute= `${host}/doctor/update`
+export const DeoupdateRoute = `${host}/deo/update`
+export const FdoupdateRoute = `${host}/fdo/update`
+export const PatientupdateRoute = `${host}/patient/update`
